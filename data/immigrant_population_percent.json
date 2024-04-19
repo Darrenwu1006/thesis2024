@@ -1,0 +1,112 @@
+[
+  {
+    "year": 1965,
+    "population": {
+      "Asian": 5,
+      "Hispanic": 14,
+      "Black": 1,
+      "White": 80,
+      "other": 0
+    }
+  },
+  {
+    "year": 1975,
+    "population": {
+      "Asian": 11,
+      "Hispanic": 25,
+      "Black": 4,
+      "White": 59,
+      "other": 1
+    }
+  },
+  {
+    "year": 1985,
+    "population": {
+      "Asian": 19,
+      "Hispanic": 36,
+      "Black": 6,
+      "White": 38,
+      "other": 1
+    }
+  },
+  {
+    "year": 1995,
+    "population": {
+      "Asian": 23,
+      "Hispanic": 44,
+      "Black": 7,
+      "White": 25,
+      "other": 1
+    }
+  },
+  {
+    "year": 2005,
+    "population": {
+      "Asian": 23,
+      "Hispanic": 48,
+      "Black": 7,
+      "White": 21,
+      "other": 1
+    }
+  },
+  {
+    "year": 2015,
+    "population": {
+      "Asian": 26,
+      "Hispanic": 47,
+      "Black": 8,
+      "White": 18,
+      "other": 1
+    }
+  },
+  {
+    "year": 2025,
+    "population": {
+      "Asian": 29,
+      "Hispanic": 43,
+      "Black": 8,
+      "White": 18,
+      "other": 2
+    }
+  },
+  {
+    "year": 2035,
+    "population": {
+      "Asian": 32,
+      "Hispanic": 40,
+      "Black": 9,
+      "White": 18,
+      "other": 1
+    }
+  },
+  {
+    "year": 2045,
+    "population": {
+      "Asian": 34,
+      "Hispanic": 37,
+      "Black": 9,
+      "White": 18,
+      "other": 2
+    }
+  },
+  {
+    "year": 2055,
+    "population": {
+      "Asian": 36,
+      "Hispanic": 34,
+      "Black": 9,
+      "White": 19,
+      "other": 2
+    }
+  },
+  {
+    "year": 2065,
+    "population": {
+      "Asian": 38,
+      "Hispanic": 31,
+      "Black": 9,
+      "White": 20,
+      "other": 2
+    }
+  }
+]

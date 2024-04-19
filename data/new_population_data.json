@@ -1,0 +1,222 @@
+[
+  {
+    "year": 1965,
+    "race": "Asian",
+    "population": 0
+  },
+  {
+    "year": 1965,
+    "race": "Hispanic",
+    "population": 0
+  },
+  {
+    "year": 1965,
+    "race": "Black",
+    "population": 0
+  },
+  {
+    "year": 1965,
+    "race": "White",
+    "population": 0
+  },
+  {
+    "year": 1975,
+    "race": "Asian",
+    "population": 1091
+  },
+  {
+    "year": 1975,
+    "race": "Hispanic",
+    "population": 2033
+  },
+  {
+    "year": 1975,
+    "race": "Black",
+    "population": 390
+  },
+  {
+    "year": 1975,
+    "race": "White",
+    "population": 1761
+  },
+  {
+    "year": 1985,
+    "race": "Asian",
+    "population": 3586
+  },
+  {
+    "year": 1985,
+    "race": "Hispanic",
+    "population": 6351
+  },
+  {
+    "year": 1985,
+    "race": "Black",
+    "population": 1200
+  },
+  {
+    "year": 1985,
+    "race": "White",
+    "population": 3383
+  },
+  {
+    "year": 1995,
+    "race": "Asian",
+    "population": 7398
+  },
+  {
+    "year": 1995,
+    "race": "Hispanic",
+    "population": 14629
+  },
+  {
+    "year": 1995,
+    "race": "Black",
+    "population": 2272
+  },
+  {
+    "year": 1995,
+    "race": "White",
+    "population": 5616
+  },
+  {
+    "year": 2005,
+    "race": "Asian",
+    "population": 11957
+  },
+  {
+    "year": 2005,
+    "race": "Hispanic",
+    "population": 27029
+  },
+  {
+    "year": 2005,
+    "race": "Black",
+    "population": 3896
+  },
+  {
+    "year": 2005,
+    "race": "White",
+    "population": 8967
+  },
+  {
+    "year": 2015,
+    "race": "Asian",
+    "population": 16621
+  },
+  {
+    "year": 2015,
+    "race": "Hispanic",
+    "population": 37047
+  },
+  {
+    "year": 2015,
+    "race": "Black",
+    "population": 5691
+  },
+  {
+    "year": 2015,
+    "race": "White",
+    "population": 11023
+  },
+  {
+    "year": 2025,
+    "race": "Asian",
+    "population": 5476
+  },
+  {
+    "year": 2025,
+    "race": "Hispanic",
+    "population": 3827
+  },
+  {
+    "year": 2025,
+    "race": "Black",
+    "population": 1268
+  },
+  {
+    "year": 2025,
+    "race": "White",
+    "population": 2851
+  },
+  {
+    "year": 2035,
+    "race": "Asian",
+    "population": 12426
+  },
+  {
+    "year": 2035,
+    "race": "Hispanic",
+    "population": 8629
+  },
+  {
+    "year": 2035,
+    "race": "Black",
+    "population": 2917
+  },
+  {
+    "year": 2035,
+    "race": "White",
+    "population": 6398
+  },
+  {
+    "year": 2045,
+    "race": "Asian",
+    "population": 20573
+  },
+  {
+    "year": 2045,
+    "race": "Hispanic",
+    "population": 14356
+  },
+  {
+    "year": 2045,
+    "race": "Black",
+    "population": 4900
+  },
+  {
+    "year": 2045,
+    "race": "White",
+    "population": 10579
+  },
+  {
+    "year": 2055,
+    "race": "Asian",
+    "population": 30035
+  },
+  {
+    "year": 2055,
+    "race": "Hispanic",
+    "population": 21098
+  },
+  {
+    "year": 2055,
+    "race": "Black",
+    "population": 7242
+  },
+  {
+    "year": 2055,
+    "race": "White",
+    "population": 15455
+  },
+  {
+    "year": 2065,
+    "race": "Asian",
+    "population": 40931
+  },
+  {
+    "year": 2065,
+    "race": "Hispanic",
+    "population": 28871
+  },
+  {
+    "year": 2065,
+    "race": "Black",
+    "population": 9936
+  },
+  {
+    "year": 2065,
+    "race": "White",
+    "population": 21022
+  }
+]

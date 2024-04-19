@@ -1,0 +1,277 @@
+[
+  {
+    "year": 1965,
+    "race": "Asian",
+    "population": 5
+  },
+  {
+    "year": 1965,
+    "race": "Hispanic",
+    "population": 14
+  },
+  {
+    "year": 1965,
+    "race": "Black",
+    "population": 1
+  },
+  {
+    "year": 1965,
+    "race": "White",
+    "population": 80
+  },
+  {
+    "year": 1965,
+    "race": "other",
+    "population": 0
+  },
+  {
+    "year": 1975,
+    "race": "Asian",
+    "population": 11
+  },
+  {
+    "year": 1975,
+    "race": "Hispanic",
+    "population": 25
+  },
+  {
+    "year": 1975,
+    "race": "Black",
+    "population": 4
+  },
+  {
+    "year": 1975,
+    "race": "White",
+    "population": 59
+  },
+  {
+    "year": 1975,
+    "race": "other",
+    "population": 1
+  },
+  {
+    "year": 1985,
+    "race": "Asian",
+    "population": 19
+  },
+  {
+    "year": 1985,
+    "race": "Hispanic",
+    "population": 36
+  },
+  {
+    "year": 1985,
+    "race": "Black",
+    "population": 6
+  },
+  {
+    "year": 1985,
+    "race": "White",
+    "population": 38
+  },
+  {
+    "year": 1985,
+    "race": "other",
+    "population": 1
+  },
+  {
+    "year": 1995,
+    "race": "Asian",
+    "population": 23
+  },
+  {
+    "year": 1995,
+    "race": "Hispanic",
+    "population": 44
+  },
+  {
+    "year": 1995,
+    "race": "Black",
+    "population": 7
+  },
+  {
+    "year": 1995,
+    "race": "White",
+    "population": 25
+  },
+  {
+    "year": 1995,
+    "race": "other",
+    "population": 1
+  },
+  {
+    "year": 2005,
+    "race": "Asian",
+    "population": 23
+  },
+  {
+    "year": 2005,
+    "race": "Hispanic",
+    "population": 48
+  },
+  {
+    "year": 2005,
+    "race": "Black",
+    "population": 7
+  },
+  {
+    "year": 2005,
+    "race": "White",
+    "population": 21
+  },
+  {
+    "year": 2005,
+    "race": "other",
+    "population": 1
+  },
+  {
+    "year": 2015,
+    "race": "Asian",
+    "population": 26
+  },
+  {
+    "year": 2015,
+    "race": "Hispanic",
+    "population": 47
+  },
+  {
+    "year": 2015,
+    "race": "Black",
+    "population": 8
+  },
+  {
+    "year": 2015,
+    "race": "White",
+    "population": 18
+  },
+  {
+    "year": 2015,
+    "race": "other",
+    "population": 1
+  },
+  {
+    "year": 2025,
+    "race": "Asian",
+    "population": 29
+  },
+  {
+    "year": 2025,
+    "race": "Hispanic",
+    "population": 43
+  },
+  {
+    "year": 2025,
+    "race": "Black",
+    "population": 8
+  },
+  {
+    "year": 2025,
+    "race": "White",
+    "population": 18
+  },
+  {
+    "year": 2025,
+    "race": "other",
+    "population": 2
+  },
+  {
+    "year": 2035,
+    "race": "Asian",
+    "population": 32
+  },
+  {
+    "year": 2035,
+    "race": "Hispanic",
+    "population": 40
+  },
+  {
+    "year": 2035,
+    "race": "Black",
+    "population": 9
+  },
+  {
+    "year": 2035,
+    "race": "White",
+    "population": 18
+  },
+  {
+    "year": 2035,
+    "race": "other",
+    "population": 1
+  },
+  {
+    "year": 2045,
+    "race": "Asian",
+    "population": 34
+  },
+  {
+    "year": 2045,
+    "race": "Hispanic",
+    "population": 37
+  },
+  {
+    "year": 2045,
+    "race": "Black",
+    "population": 9
+  },
+  {
+    "year": 2045,
+    "race": "White",
+    "population": 18
+  },
+  {
+    "year": 2045,
+    "race": "other",
+    "population": 2
+  },
+  {
+    "year": 2055,
+    "race": "Asian",
+    "population": 36
+  },
+  {
+    "year": 2055,
+    "race": "Hispanic",
+    "population": 34
+  },
+  {
+    "year": 2055,
+    "race": "Black",
+    "population": 9
+  },
+  {
+    "year": 2055,
+    "race": "White",
+    "population": 19
+  },
+  {
+    "year": 2055,
+    "race": "other",
+    "population": 2
+  },
+  {
+    "year": 2065,
+    "race": "Asian",
+    "population": 38
+  },
+  {
+    "year": 2065,
+    "race": "Hispanic",
+    "population": 31
+  },
+  {
+    "year": 2065,
+    "race": "Black",
+    "population": 9
+  },
+  {
+    "year": 2065,
+    "race": "White",
+    "population": 20
+  },
+  {
+    "year": 2065,
+    "race": "other",
+    "population": 2
+  }
+]

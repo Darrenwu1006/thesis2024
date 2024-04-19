@@ -1,0 +1,112 @@
+[
+  {
+    "year": 1965,
+    "population": {
+      "Asian": 0,
+      "Hispanic": 0,
+      "Black": 0,
+      "White": 0,
+      "total": 0
+    }
+  },
+  {
+    "year": 1975,
+    "population": {
+      "Asian": 1091,
+      "Hispanic": 2033,
+      "Black": 390,
+      "White": 1761,
+      "total": 5275
+    }
+  },
+  {
+    "year": 1985,
+    "population": {
+      "Asian": 3586,
+      "Hispanic": 6351,
+      "Black": 1200,
+      "White": 3383,
+      "total": 14520
+    }
+  },
+  {
+    "year": 1995,
+    "population": {
+      "Asian": 7398,
+      "Hispanic": 14629,
+      "Black": 2272,
+      "White": 5616,
+      "total": 29915
+    }
+  },
+  {
+    "year": 2005,
+    "population": {
+      "Asian": 11957,
+      "Hispanic": 27029,
+      "Black": 3896,
+      "White": 8967,
+      "total": 51849
+    }
+  },
+  {
+    "year": 2015,
+    "population": {
+      "Asian": 16621,
+      "Hispanic": 37047,
+      "Black": 5691,
+      "White": 11023,
+      "total": 70382
+    }
+  },
+  {
+    "year": 2025,
+    "population": {
+      "Asian": 5476,
+      "Hispanic": 3827,
+      "Black": 1268,
+      "White": 2851,
+      "total": 13422
+    }
+  },
+  {
+    "year": 2035,
+    "population": {
+      "Asian": 12426,
+      "Hispanic": 8629,
+      "Black": 2917,
+      "White": 6398,
+      "total": 30370
+    }
+  },
+  {
+    "year": 2045,
+    "population": {
+      "Asian": 20573,
+      "Hispanic": 14356,
+      "Black": 4900,
+      "White": 10579,
+      "total": 50408
+    }
+  },
+  {
+    "year": 2055,
+    "population": {
+      "Asian": 30035,
+      "Hispanic": 21098,
+      "Black": 7242,
+      "White": 15455,
+      "total": 73830
+    }
+  },
+  {
+    "year": 2065,
+    "population": {
+      "Asian": 40931,
+      "Hispanic": 28871,
+      "Black": 9936,
+      "White": 21022,
+      "total": 100760
+    }
+  }
+]

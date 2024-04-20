@@ -1,14 +1,16 @@
+<template>
+  <div class="global-container">
+    <NuxtPage />
+  </div>
+</template>
+
 <script setup>
 import timeline from './pages/timeline.vue';
 import bubble from './pages/bubble.vue';
 import ending from './pages/ending.vue';
 
 </script>
-<template>
-  <div class="global-container">
-    <NuxtPage />
-  </div>
-</template>
+
 
 <style>
 * {

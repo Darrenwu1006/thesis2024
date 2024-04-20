@@ -1,3 +1,24 @@
+<template>
+  <div class="pages">
+    <div class="background-container">
+      <div class="video-container">
+        <video autoplay muted loop>
+          <source :src="videoSource" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+
+
+      <h1 class="title">MOM! Can I Not Bring the Lunch Box to School?</h1>
+      <UButton to="/timeline" class="content" color="gray" variant="ghost" size="lg"> Timeline </UButton>
+      <!-- <UButton to="/lifestage"  class="content" color ="gray" variant="ghost" size = "lg"> Lifestage </UButton> -->
+      <UButton to="/bubble" class="content" color="gray" variant="ghost" size="lg"> Bubble </UButton>
+      <UButton to="/ending" class="content" color="gray" variant="ghost" size="lg"> Ending</UButton>
+    </div>
+  </div>
+</template>
+
 <script setup>
 import videoSource from '../data/video/pl1.mov';
 
@@ -16,26 +37,7 @@ import videoSource from '../data/video/pl1.mov';
 
 </script>
 
-<template>
-  <div class="pages">
-    <div class="background-container">
-      <div class="video-container">
-        <video autoplay muted loop>
-          <source :src="videoSource" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
-      </div>
 
-      
-      
-      <h1 class="title">MOM! Can I Not Bring the Lunch Box to School?</h1>
-        <UButton to="/timeline"  class="content" color ="gray" variant="ghost" size = "lg"> Timeline </UButton>
-          <!-- <UButton to="/lifestage"  class="content" color ="gray" variant="ghost" size = "lg"> Lifestage </UButton> -->
-          <UButton to="/bubble" class="content" color ="gray" variant="ghost" size = "lg"> Bubble </UButton>
-          <UButton to="/ending"  class="content" color ="gray" variant="ghost" size = "lg"> Ending</UButton>
-    </div>
-  </div>
-</template>
 
 <style>
 .pages {

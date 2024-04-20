@@ -10,7 +10,7 @@
         </div>
         <div class="canvas">
           <div id="app">
-            <bubbleChart />
+            <bubbleChart_whole />
             <!-- <timelinePopulation />     -->
             <!-- <timelineChart /> -->
           </div>
@@ -21,15 +21,14 @@
 <script setup>
 
 
-const selectedChart = ref(null)
-import { ref } from 'vue'
+// const selectedChart = ref(null)
+// import { ref } from 'vue'
 
-import data from '../data/memories.json'
-import json from '../data/grouped_memories_ls.json'
-import bubbleChart from '../components/bubbleChart.vue'
-import bubbleChartLs from '../components/bubbleChart_ls.vue'
-import bubbleChartConcept from '../components/bubbleChart_concept.vue'
-import bubbleChartKeyItems from '../components/bubbleChart_item.vue'
+// import data from '../data/memories.json'
+// import json from '../data/grouped_memories_ls.json'
+// import bubbleChart from '../components/bubbleChart.vue'
+// import bubbleChartLs from '../components/bubbleChart_ls.vue'
+// import bubbleChartConcept from '../components/bubbleChart_whole.vue'
 
 
 const loadChart = (chartType) => {
@@ -62,7 +61,7 @@ const loadChart = (chartType) => {
     flex-direction: row;
     margin-bottom: 0px;
     width: 100vw;
-    height: 15vh;
+    height: 10vh;
 }
 
 .canvas {
@@ -72,7 +71,7 @@ const loadChart = (chartType) => {
     align-items: center;
     justify-content: center;
     width: 100vw;
-    height: 85vh;
+    height: 95vh;
     overflow: hidden;
     color: beige;
 }
